@@ -1,2 +1,3 @@
 # redesigned-couscous
-A cookbook
+A cookbook by PotatoPerson.
+"More elegant than normal couscous."
